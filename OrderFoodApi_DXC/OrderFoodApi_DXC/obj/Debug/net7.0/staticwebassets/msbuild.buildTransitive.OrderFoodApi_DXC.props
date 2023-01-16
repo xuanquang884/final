@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OrderFoodApi_DXC.props" />
+</Project>
